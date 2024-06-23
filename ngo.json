@@ -1,0 +1,81 @@
+{
+    "Calcutta Foundation":{
+        "unique-id": 1,
+        "name":"Calcutta Foundation",
+        "address":"Kolkata",
+        "contact":"9876543210"
+        
+    },
+    "Economic Rural Development Society (ERDS)":{
+        "unique-id": 2,
+        "name":"Economic Rural Development Society (ERDS)",
+        "address":"Kolkata",
+        "contact":"9876543210"
+    },
+    "Nabatara Foundation":{
+        "unique-id": 3,
+        "name":"Nabatara Foundation",
+        "address":"Kolkata",
+        "contact":"9876543210"
+    },
+    "Hope Foundation":{
+        "unique-id": 4,
+        "name":"Hope Foundation",
+        "address":"Kolkata",
+        "contact":"9876543210"
+    },
+    "Sarada Seva Sangha":{
+        "unique-id": 5,
+        "name":"Sarada Seva Sangha",
+        "address":"Kolkata",
+        "contact":"9876543210"
+    },
+    "Sahara":{
+        "unique-id": 6,
+        "name":"Sahara",
+        "address":"Kolkata",
+        "contact":"9876543210"
+    },
+    "SOS Children's Village":{
+        "unique-id": 7,
+        "name":"SOS Children's Village",
+        "address":"Kolkata",
+        "contact":"9876543210"
+    },
+    "Snehalaya":{
+        "unique-id": 8,
+        "name":"Snehalaya",
+        "address":"Kolkata",
+        "contact":"9876543210"
+    },
+    "Swayam":{
+        "unique-id": 9,
+        "name":"Swayam",
+        "address":"Kolkata",
+        "contact":"9876543210"
+    },
+    "Udayan Care":{
+        "unique-id": 10,
+        "name":"Udayan Care",
+        "address":"Kolkata",
+        "contact":"9876543210"
+    },
+    "Vivekananda Mission Ashram":{
+        "unique-id": 11,
+        "name":"Vivekananda Mission Ashram",
+        "address":"Kolkata",
+        "contact":"9876543210"
+    },
+    "Samaritan Help Mission":{
+        "unique-id": 12,
+        "name":"Samaritan Help Mission",
+        "address":"Kolkata",
+        "contact":"9876543210"
+    },
+    "Snehi":{
+        "unique-id": 13,
+        "name":"Snehi",
+        "address":"Kolkata",
+        "contact":"9876543210"
+    }
+}

@@ -1,0 +1,277 @@
+{
+    "amri-hospitals":{
+        "unique-id": 1,
+        "name": "AMRI Hospitals",
+        "address": "JC 16 & 17, Salt Lake City, Sector III, Kolkata, West Bengal 700098",
+        "phone": "033 6606 1000",
+        "website": "https://www.amrihospitals.in/",
+        "coordinates": {
+            "latitude": 22.5707,
+            "longitude": 88.4174
+        }
+    },
+    "apollo-gleneagles-hospitals":{
+        "unique-id": 2,
+        "name": "Apollo Gleneagles Hospitals",
+        "address": "58, Canal Circular Road, Kadapara, Phool Bagan, Kankurgachi, Kolkata, West Bengal 700054",
+        "phone": "033 2320 3040",
+        "website": "https://www.apollohospitals.com/",
+        "coordinates": {
+            "latitude": 22.5726,
+            "longitude": 88.3984
+        }
+    },
+    "fortis-hospitals":{
+        "unique-id": 3,
+        "name": "Fortis Hospitals",
+        "address": "730, Anandapur, E.M. Bypass Road, Kolkata, West Bengal 700107",
+        "phone": "033 6628 4444",
+        "website": "https://www.fortishealthcare.com/",
+        "coordinates": {
+            "latitude": 22.5143,
+            "longitude": 88.4016
+        }
+    },
+    "medica-superspecialty-hospital":{
+        "unique-id": 4,
+        "name": "Medica Superspecialty Hospital",
+        "address": "127, Mukundapur, E.M. Bypass, Kolkata, West Bengal 700099",
+        "phone": "033 6652 0000",
+        "website": "https://www.medicahospitals.in/",
+        "coordinates": {
+            "latitude": 22.4864,
+            "longitude": 88.3963
+        }
+    },
+    "peerless-hospital":{
+        "unique-id": 5,
+        "name": "Peerless Hospital",
+        "address": "360, Panchasayar, Kolkata, West Bengal 700094",
+        "phone": "033 2432 2400",
+        "website": "https://www.peerlesshospital.com/",
+        "coordinates": {
+            "latitude": 22.4824,
+            "longitude": 88.3666
+        }
+    },
+    "ruby-general-hospital":{
+        "unique-id": 6,
+        "name": "Ruby General Hospital",
+        "address": "Kasba Golpark, E.M. Bypass, Kolkata, West Bengal 700107",
+        "phone": "033 2442 0283",
+        "website": "https://www.rubyhospital.com/",
+        "coordinates": {
+            "latitude": 22.5143,
+            "longitude": 88.4016
+        }
+    },
+    "woodlands-hospital":{
+        "unique-id": 7,
+        "name": "Woodlands Hospital",
+        "address": "8/5, Alipore Road, Alipore, Kolkata, West Bengal 700027",
+        "phone": "033 2456 7075",
+        "website": "https://www.woodlandshospital.in/",
+        "coordinates": {
+            "latitude": 22.5371,
+            "longitude": 88.3336
+        }
+    },
+    "calcutta-medical-research-institute":{
+        "unique-id": 8,
+        "name": "Calcutta Medical Research Institute",
+        "address": "7/2, Diamond Harbour Road, Alipore, Kolkata, West Bengal 700027",
+        "phone": "033 3090 3090",
+        "website": "https://www.cmri.in/",
+        "coordinates": {
+            "latitude": 22.5371,
+            "longitude": 88.3336
+        }
+    },
+    "desun-hospital-and-heart-institute":{
+        "unique-id": 9,
+        "name": "Desun Hospital and Heart Institute",
+        "address": "720, Anandapur, E.M. Bypass Road, Kolkata, West Bengal 700107",
+        "phone": "033 7122 2222",
+        "website": "https://www.desunhospital.com/",
+        "coordinates": {
+            "latitude": 22.5143,
+            "longitude": 88.4016
+        }
+    },
+    "iq-city-medical-college-and-narayana-multispeciality-hospital":{
+        "unique-id": 10,
+        "name": "IQ City Medical College and Narayana Multispeciality Hospital",
+        "address": "Iq City, Durgapur, West Bengal 713206",
+        "phone": "0343 253 5645",
+        "website": "https://www.iqct.in/",
+        "coordinates": {
+            "latitude": 23.5477,
+            "longitude": 87.3215
+        }
+    },
+    "narayana-multispeciality-hospital":{
+        "unique-id": 11,
+        "name": "Narayana Multispeciality Hospital",
+        "address": "78, Jessore Road, Barasat, Kolkata, West Bengal 700127",
+        "phone": "033 3984 3890",
+        "website": "https://www.narayanahealth.org/",
+        "coordinates": {
+            "latitude": 22.6606,
+            "longitude": 88.4466
+        }
+    },
+    "r-n-tagore-international-institute-of-cardiac-sciences":{
+        "unique-id": 12,
+        "name": "R. N. Tagore International Institute of Cardiac Sciences",
+        "address": "124, Mukundapur, E.M. Bypass, Kolkata, West Bengal 700099",
+        "phone": "033 2436 4000",
+        "website": "https://www.fortishealthcare.com/",
+        "coordinates": {
+            "latitude": 22.4864,
+            "longitude": 88.3963
+        }
+    },
+    "susrut-eye-foundation-and-research-centre":{
+        "unique-id": 13,
+        "name": "Susrut Eye Foundation and Research Centre",
+        "address": "HB-36/A/1, Sector III, Salt Lake City, Kolkata, West Bengal 700106",
+        "phone": "033 2358 0201",
+        "website": "https://www.susrut.org/",
+        "coordinates": {
+            "latitude": 22.5707,
+            "longitude": 88.4174
+        }
+    },
+    "vivekananda-institute-of-medical-sciences-and-ramakrishna-mission-seva-pratishthan":{
+        "unique-id": 14,
+        "name": "Vivekananda Institute of Medical Sciences and Ramakrishna Mission Seva Pratishthan",
+        "address": "99, Sarat Bose Road, Kolkata, West Bengal 700026",
+        "phone": "033 2475 4065",
+        "website": "https://vimskolkata.org/",
+        "coordinates": {
+            "latitude": 22.5163,
+            "longitude": 88.3456
+        }
+    },
+    "belle-vue-clinic":{
+        "unique-id": 15,
+        "name": "Belle Vue Clinic",
+        "address": "9, Loudon Street, Kolkata, West Bengal 700017",
+        "phone": "033 2287 2321",
+        "website": "https://www.bellevueclinic.com/",
+        "coordinates": {
+            "latitude": 22.5394,
+            "longitude": 88.3516
+        }
+    },
+    "b-p-poddar-hospital-and-medical-research-ltd":{
+        "unique-id": 16,
+        "name": "B. P. Poddar Hospital and Medical Research Ltd",
+        "address": "71/1, Humayun Kabir Sarani, Block G, New Alipore, Kolkata, West Bengal 700053",
+        "phone": "033 6628 4444",
+        "website": "https://www.bppoddarhospital.net/",
+        "coordinates": {
+            "latitude": 22.5143,
+            "longitude": 88.4016
+        }
+    },
+    "srisri-aurobindo-seva-kendra":{
+        "unique-id": 17,
+        "name": "SriSri Aurobindo Seva Kendra (EEDF)",
+        "address": "8, Garcha 1st Lane, Ballygunge, Kolkata, West Bengal 700019",
+        "phone": "033 2440 6246",
+        "website": "https://www.eedfindia.com/",
+        "coordinates": {
+            "latitude": 22.5251,
+            "longitude": 88.3635
+        }
+    },
+    "cmri(calcutta-medical-research-institute)":{
+        "unique-id": 18,
+        "name": "CMRI (Calcutta Medical Research Institute)",
+        "address": "7/2, Diamond Harbour Road, Alipore, Kolkata, West Bengal 700027",
+        "phone": "033 3090 3090",
+        "website": "https://www.cmri.in/",
+        "coordinates": {
+            "latitude": 22.5371,
+            "longitude": 88.3336
+        }
+    },
+    "nrs-medical-college-and-hospital":{
+        "unique-id": 19,
+        "name": "NRS Medical College and Hospital",
+        "address": "138, A.J.C. Bose Road, Sealdah, Raja Bazar, Kolkata, West Bengal 700014",
+        "phone": "033 2265 3215",
+        "website": "https://www.nrsmch.org/",
+        "coordinates": {
+            "latitude": 22.5646,
+            "longitude": 88.3639
+        }
+    },
+    "rg-kar-medical-college-and-hospital":{
+        "unique-id": 20,
+        "name": "RG Kar Medical College and Hospital",
+        "address": "1, Khudiram Bose Sarani, Belgachia, Kolkata, West Bengal 700004",
+        "phone": "033 2555 7656",
+        "website": "https://www.rgkarmch.org/",
+        "coordinates": {
+            "latitude": 22.6067,
+            "longitude": 88.3688
+        }
+    },
+    "chittoranjan-national-cancer-institute":{
+        "unique-id": 21,
+        "name": "Chittoranjan National Cancer Institute",
+        "address": "37, S.P. Mukherjee Road, Kolkata, West Bengal 700026",
+        "phone": "033 2475 9313",
+        "website": "https://cnci.ac.in/",
+        "coordinates": {
+            "latitude": 22.5163,
+            "longitude": 88.3456
+        }
+    },
+    "charnak-hospital":{
+        "unique-id": 22,
+        "name": "Charnak Hospital",
+        "address": "1, Raja Subodh Chandra Mullick Road, Jadavpur, Kolkata, West Bengal 700032",
+        "phone": "033 2416 0000",
+        "website": "https://www.charnockhospital.com/",
+        "coordinates": {
+            "latitude": 22.4966,
+            "longitude": 88.3697
+        }
+    },
+    "kpc-medical-college-and-hospital":{
+        "unique-id": 23,
+        "name": "KPC Medical College and Hospital",
+        "address": "1F, Raja S.C. Mullick Road, Jadavpur, Kolkata, West Bengal 700032",
+        "phone": "033 2436 4152",
+        "website": "https://www.kpcmedicalcollege.org/",
+        "coordinates": {
+            "latitude": 22.4966,
+            "longitude": 88.3697
+        }
+    },
+    "islampur-subdivisional-hospital":{
+        "unique-id": 24,
+        "name": "Islampur Subdivisional Hospital",
+        "address": "Islampur, West Bengal 733202",
+        "phone": "03526 255 222",
+        "website": "https://www.wbhealth.gov.in/",
+        "coordinates": {
+            "latitude": 26.2704,
+            "longitude": 88.2014
+        }
+    },
+    "north-bengal-medical-college-and-hospital":{
+        "unique-id": 25,
+        "name": "North Bengal Medical College and Hospital",
+        "address": "Sushrutanagar, Siliguri, West Bengal 734012",
+        "phone": "0353 258 5470",
+        "website": "https://www.nbmc.ac.in/",
+        "coordinates": {
+            "latitude": 26.7271,
+            "longitude": 88.3953
+        }
+    }
+}
