@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Hospitals in Bengal</title>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <style>
+        #map {
+            width: 100vw;
+            height: 100vh;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="map"></div>
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script>
+        var map = L.map('map').setView([22.5707, 88.4174], 10);
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '© OpenStreetMap contributors'
+        }).addTo(map);
+
+        fetch('/api/hospitals')
+            .then(response => response.json())
+            .then(data => {
+                console.log('Total hospitals:', data.length);
+                data.forEach((hospital, index) => {
+                    console.log(`Processing hospital ${index + 1}:`, hospital.name);
+                    if (hospital.coordinates && hospital.coordinates.latitude && hospital.coordinates.longitude) {
+                        L.marker([hospital.coordinates.latitude, hospital.coordinates.longitude]).addTo(map)
+                            .bindPopup(`
+                                <b>${hospital.name}</b><br>
+                                Address: ${hospital.address}<br>
+                                Phone: ${hospital.phone}<br>
+                                Website: <a href="${hospital.website}" target="_blank">${hospital.website}</a>
+                            `);
+                    } else {
+                        console.warn(`Missing coordinates for hospital: ${hospital.name}`);
+                    }
+                });
+            })
+            .catch(error => console.error('Error fetching data:', error));
+    </script>
+</body>
+
+</html>
